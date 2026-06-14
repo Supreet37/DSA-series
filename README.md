@@ -31,6 +31,7 @@ This repository is created to:
 
 ## 📂 Structure
 
+```text
 DSA
 ├── Array&hashing
 │   ├── Anagram.java
@@ -39,5 +40,8 @@ DSA
 ├── DailyStreak
 │   ├── DailyStreak1.java
 │   └── DailyStreak2.java
+├── .gitignore
+└── README.md
+```
 ├── .gitignore
 └── README.md
