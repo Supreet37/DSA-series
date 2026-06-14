@@ -2,7 +2,7 @@
 This repo contains my solutions to various DSA problems, mainly focused on **Java**, along with clean code, patterns, and learning notes.
 
 ---
-<img src="dsa.png" />
+<img src="dsa.png" height="100px"/>
 
 ---
 
