@@ -43,5 +43,3 @@ DSA
 ├── .gitignore
 └── README.md
 ```
-├── .gitignore
-└── README.md
