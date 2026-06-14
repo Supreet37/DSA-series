@@ -4,6 +4,8 @@ Welcome to my Data Structures & Algorithms repository!
 This repo contains my solutions to various DSA problems, mainly focused on **Java**, along with clean code, patterns, and learning notes.
 
 ---
+<img src="dsa.png" />
+---
 
 ## 📌 About This Repository
 
