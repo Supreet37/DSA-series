@@ -30,3 +30,14 @@ This repository is created to:
 ---
 
 ## 📂 Structure
+
+DSA
+├── Array&hashing
+│   ├── Anagram.java
+│   ├── Duplicate.java
+│   └── Solution.java
+├── DailyStreak
+│   ├── DailyStreak1.java
+│   └── DailyStreak2.java
+├── .gitignore
+└── README.md
