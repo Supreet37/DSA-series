@@ -1,7 +1,8 @@
-# 🚀 Data Structures & Algorithms (DSA)
-
-Welcome to my Data Structures & Algorithms repository!  
+# Welcome to my Data Structures & Algorithms repository!  
 This repo contains my solutions to various DSA problems, mainly focused on **Java**, along with clean code, patterns, and learning notes.
+
+---
+<img src="dsa.png" />
 
 ---
 
@@ -30,3 +31,16 @@ This repository is created to:
 ---
 
 ## 📂 Structure
+
+```text
+DSA
+├── Array&hashing
+│   ├── Anagram.java
+│   ├── Duplicate.java
+│   └── Solution.java
+├── DailyStreak
+│   ├── DailyStreak1.java
+│   └── DailyStreak2.java
+├── .gitignore
+└── README.md
+```
