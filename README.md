@@ -41,6 +41,8 @@ DSA
 ├── DailyStreak
 │   ├── DailyStreak1.java
 │   └── DailyStreak2.java
+|   └──DailyStreak3.c
+│   └── DailyStreak4.java
 ├── .gitignore
 └── README.md
 ```
