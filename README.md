@@ -27,6 +27,7 @@ This repository is created to:
 ## 🛠️ Language Used
 
 - Java ☕
+- C 🦀
 
 ---
 
