@@ -14,17 +14,21 @@ This repository is created to:
 - Prepare for coding interviews
 - Maintain structured notes for revision
 
+This repo is actively updated with commits synced automatically from LeetCode via the **LeetSync** extension as I solve problems.
+
 ---
 
 ## 🧠 Topics Covered
 
-- Arrays
-- Strings
-- Hashing
+- Arrays & Hashing
+- Sliding Window
+- Linked Lists
+- Graphs (BFS, Union-Find, Dijkstra)
+- Greedy
 
 ---
 
-## 🛠️ Language Used
+## 🛠️ Languages Used
 
 - Java ☕
 - C 🦀
@@ -36,14 +40,24 @@ This repository is created to:
 ```text
 DSA
 ├── Array&hashing
+│   ├── 1-two-sum                      # Two Sum — Hashing
+│   ├── 217-contains-duplicate         # Contains Duplicate — Hashing
+│   ├── 242-valid-anagram              # Valid Anagram — Hashing/Sorting
 │   ├── Anagram.java
 │   ├── Duplicate.java
 │   └── Solution.java
 ├── DailyStreak
-│   ├── DailyStreak1.java
-│   └── DailyStreak2.java
-|   └──DailyStreak3.c
-│   └── DailyStreak4.java
+│   ├── 1460   # Substrings with all three chars — Sliding Window
+│   ├── 1956   # Max element after decreasing & rearranging — Greedy/Sorting
+│   ├── 2099   # Strings appearing as substrings — String Matching
+│   ├── 2236   # Max twin sum of a linked list — Linked List / Two Pointers
+│   ├── 2582   # Min score of a path between two cities — Graph / Union-Find
+│   ├── 3299   # Max number of elements — Array / Greedy
+│   ├── 3558   # Safe walk through a grid — Graph / BFS-Dijkstra
+│   ├── 3919   # Network recovery pathways — Graph
+│   ├── 4075   # Subarrays with majority element — Sliding Window / Boyer-Moore
+│   ├── DailyStreak1.java  → DailyStreak10.java
+│   └── DailyStreak3.c
 ├── .gitignore
 └── README.md
 ```
