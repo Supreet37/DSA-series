@@ -64,6 +64,7 @@ DSA
 │   ├── 4075   # Subarrays with majority element — Sliding Window / Boyer-Moore
 │   ├── 4135   # Concatenate non-zero digits & multiply by sum I — Math / Simulation
 │   ├── 4136   # Concatenate non-zero digits & multiply by sum II — Prefix Sum / Math
+|   ├── 3608   # Find the number of subsequences with equal gcd 
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
