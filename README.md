@@ -65,6 +65,8 @@ DSA
 │   ├── 4135   # Concatenate non-zero digits & multiply by sum I — Math / Simulation
 │   ├── 4136   # Concatenate non-zero digits & multiply by sum II — Prefix Sum / Math
 |   ├── 3608   # Find the number of subsequences with equal gcd 
+|   ├── 3995   # find the gcd of odd and even sums
+|   ├── 4242   # Find the sum of gcd sum pairs formed
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
