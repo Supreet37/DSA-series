@@ -68,6 +68,7 @@ DSA
 |   ├── 3995   # find the gcd of odd and even sums
 |   ├── 4242   # Find the sum of gcd sum pairs formed
 |   ├── 3583   # sorting gdc paired queries (hard)
+|   ├── 3583   # find gcd in an array
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
