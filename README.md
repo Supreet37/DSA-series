@@ -69,6 +69,8 @@ DSA
 |   ├── 4242   # Find the sum of gcd sum pairs formed
 |   ├── 3583   # sorting gdc paired queries (hard)
 |   ├── 3583   # find gcd in an array
+|   ├── 3583   # find gcd in an array
+|   ├── 1159   # smallest-subsequence-of-distinct-characters
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
