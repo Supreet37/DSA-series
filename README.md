@@ -72,6 +72,7 @@ DSA
 |   ├── 3583   # find gcd in an array
 |   ├── 1159   # smallest-subsequence-of-distinct-characters
 |   ├── 3805   # maximize-active-section-with-trade-i
+|   ├── 3804   # maximize-active-section-with-trade-ii
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
