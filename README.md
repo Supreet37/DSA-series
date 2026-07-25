@@ -73,6 +73,7 @@ DSA
 |   ├── 1159   # smallest-subsequence-of-distinct-characters
 |   ├── 3805   # maximize-active-section-with-trade-i
 |   ├── 3804   # maximize-active-section-with-trade-ii
+|   ├── 3859   # maximize-product-of-two-digits
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
