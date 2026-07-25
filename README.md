@@ -75,6 +75,7 @@ DSA
 |   ├── 3804   # maximize-active-section-with-trade-ii
 |   ├── 3859   # maximize-product-of-two-digits
 |   ├── 3824   # xor-triplets-i
+|   ├── 3820   # xor-triplets-ii
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
