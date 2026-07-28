@@ -77,6 +77,7 @@ DSA
 |   ├── 3824   # xor-triplets-i
 |   ├── 3820   # xor-triplets-ii
 |   ├── 628    # maximum-product-of-three-numbers
+|   ├── 1574   # maximum-product-of-two-elements-in-an-array
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
