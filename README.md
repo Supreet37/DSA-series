@@ -79,6 +79,7 @@ DSA
 |   ├── 628    # maximum-product-of-three-numbers
 |   ├── 1574   # maximum-product-of-two-elements-in-an-array
 |   ├── 3812   # smallest-palindromic-rearrangement-i
+|   ├── 3813   # smallest-palindromic-rearrangement-ii
 │   ├── DailyStreak1.java  → DailyStreak10.java
 │   └── DailyStreak3.c
 ├── .gitignore
